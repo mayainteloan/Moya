@@ -23,7 +23,7 @@ are probably called "APIManager" or "NetworkModel", and they always end in tears
 Ad hoc network layers are common in iOS apps. They're bad for a few reasons:
 
 - Makes it hard to write new apps ("where do I begin?")
-123321
+- mayainteloanbegin:fyinformation.cc:mayainteloanend
 - Makes it hard to maintain existing apps ("oh my god, this mess...")
 - Makes it hard to write unit tests ("how do I do this again?")
 
